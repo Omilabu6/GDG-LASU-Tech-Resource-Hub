@@ -1,213 +1,216 @@
 # Frontend Fundamentals
 
-This section introduces the foundational technologies used to build websites.
+This section is designed for **beginners starting frontend development**.
 
 Frontend development is built on three core technologies:
 
-- HTML (Structure)
-- CSS (Styling)
-- JavaScript (Interactivity)
+- **HTML** → Structure
+- **CSS** → Styling
+- **JavaScript** → Interactivity
 
-Understanding these fundamentals is essential before moving into frameworks or advanced tools.
+The goal of this section is to help you understand these fundamentals and build your first simple web projects.
 
 ---
 
-# 🌐 1. How the Web Works
+# 1. How the Web Works
 
-Before writing code, it is important to understand how websites work.
+Before writing code, it's important to understand how websites actually work.
 
-Topics to understand:
+## What to Learn
 
-- What happens when you visit a website
+- What happens when you type a URL in the browser
 - Client vs Server
-- Browsers and rendering
-- HTTP / HTTPS
-- Web hosting and domains
+- What a browser does
+- HTTP and HTTPS
+- How websites are hosted
 
-Recommended Resources:
+## Primary Resource
 
-MDN Web Docs — How the Web Works  
+MDN – How the Web Works  
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+
+## Optional Resource
 
 How the Internet Works (Video)  
 https://www.youtube.com/watch?v=7_LPdttKXPc
 
 ---
 
-# 🧱 2. HTML — Structuring Web Pages
+# 2. HTML — Structuring Web Pages
 
-HTML (HyperText Markup Language) defines the structure of a webpage.
+HTML (HyperText Markup Language) defines the structure of web pages.
 
-Topics to learn:
+## What to Learn
 
 - HTML document structure
-- Elements and tags
-- Attributes
 - Headings and paragraphs
-- Links
-- Images
+- Links and images
 - Lists
 - Tables
 - Forms
 - Semantic HTML
-- Audio and video elements
 - Navigation structure
 
-Recommended Resources:
+## Primary Resource
 
 MDN HTML Guide  
 https://developer.mozilla.org/en-US/docs/Learn/HTML
 
-freeCodeCamp HTML Course  
+## Optional Resource
+
+freeCodeCamp Responsive Web Design  
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-HTML Crash Course  
-https://www.youtube.com/watch?v=UB1O30fR-EE
+## Practice
 
-Practice:
+Build a simple webpage that includes:
 
-https://www.frontendmentor.io
+- A title
+- Navigation links
+- Images
+- A contact form
 
 ---
 
-# 🎨 3. CSS — Styling Web Pages
+# 3. CSS — Styling Web Pages
 
 CSS (Cascading Style Sheets) controls the appearance and layout of websites.
 
-Topics to learn:
+## What to Learn
 
 - CSS syntax
 - Selectors
-- Colors
-- Fonts and typography
+- Colors and typography
 - Box model
-- Margins and padding
-- Positioning
-- Flexbox
-- Grid
+- Margin and padding
+- Layout with Flexbox
+- Layout with Grid
 - Responsive design
 - Media queries
 
-Recommended Resources:
+## Primary Resource
 
 MDN CSS Guide  
 https://developer.mozilla.org/en-US/docs/Learn/CSS
 
-freeCodeCamp CSS Course  
-https://www.freecodecamp.org/learn/2022/responsive-web-design/
-
-CSS Crash Course  
-https://www.youtube.com/watch?v=yfoY53QXEnI
+## Optional Resources
 
 Flexbox Guide  
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-CSS Grid Guide  
+Grid Guide  
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
-Practice:
+## Practice
 
-https://flexboxfroggy.com  
+Practice layout using:
+
+Flexbox Froggy  
+https://flexboxfroggy.com
+
+CSS Grid Garden  
 https://cssgridgarden.com
 
+Mini Project:
+
+Create a **responsive landing page**.
+
 ---
 
-# ⚡ 4. JavaScript — Adding Interactivity
+# 4. JavaScript — Adding Interactivity
 
-JavaScript allows developers to create dynamic and interactive web experiences.
+JavaScript makes websites interactive and dynamic.
 
-Topics to learn:
+## What to Learn
 
 - Variables and data types
-- Operators
+- Arrays and objects
+- Functions
 - Conditional statements
 - Loops
-- Functions
-- Arrays and objects
-- DOM manipulation
-- Events
-- Form validation
-- Browser storage (localStorage)
-- Debugging
+- Basic debugging with console.log()
 
-Recommended Resources:
+## Primary Resource
 
-MDN JavaScript Guide  
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript
-
-JavaScript Fundamentals Course  
+JavaScript.info  
 https://javascript.info/
 
-JavaScript Crash Course  
-https://www.youtube.com/watch?v=hdI2bqOjy3c
+## Optional Resource
 
-Practice:
+freeCodeCamp JavaScript Course  
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-https://www.codewars.com  
-https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
+## Practice
+
+Solve beginner problems on:
+
+Codewars  
+https://www.codewars.com
+
+Mini Project:
+
+Build one of the following:
+
+- Simple Calculator
+- Random Quote Generator
+- Basic To-Do List
 
 ---
 
-# 🛠 5. Development Tools
+# 5. Development Tools
 
 Frontend developers rely on tools that improve workflow.
 
-Tools to learn:
+## Tools to Learn
 
-- Code editors
-- Browser developer tools
-- Version control
+- Visual Studio Code
+- Browser Developer Tools
+- Git
+- GitHub
 
-Recommended Tools:
+## Resources
 
-Visual Studio Code  
-Git  
-GitHub  
-Browser Developer Tools
-
-Resources:
-
-VS Code Setup Guide  
+VS Code Documentation  
 https://code.visualstudio.com/docs
 
 Git Handbook  
 https://guides.github.com/introduction/git-handbook/
 
-GitHub Learning Lab  
-https://lab.github.com
+---
+
+# Beginner Capstone Project
+
+Before moving to the next section, build **at least one project** combining HTML, CSS, and JavaScript.
+
+Suggested Projects:
+
+- Personal Portfolio Website
+- Responsive Blog Layout
+- To-Do List Application
+- Quiz App
+
+Deploy your project using:
+
+GitHub Pages  
+https://pages.github.com
+
+or
+
+Netlify  
+https://www.netlify.com
 
 ---
 
-# 🧪 Practice Before Moving On
+# Next Step
 
-Before moving to the next section, learners should be able to:
+Once you're comfortable with the fundamentals, move to:
 
-- Create a multi-page HTML website
-- Style a responsive layout with CSS
-- Use JavaScript to manipulate the DOM
-- Validate a form
-- Push code to GitHub
+**02-Core-Concepts**
 
-Suggested Mini Projects:
+There you will learn:
 
-- Personal Portfolio Page
-- Responsive Landing Page
-- Simple Calculator
-- To-Do List App
-- Blog Layout
-
----
-
-# 📌 Next Step
-
-Once comfortable with the fundamentals, move to:
-
-Core-Concepts/
-
-Where you will learn deeper frontend concepts such as:
-
-- Advanced JavaScript
-- API integration
+- DOM manipulation
+- Events
+- Fetch API
+- Async JavaScript
 - Browser APIs
-- Performance basics
-- Application structure

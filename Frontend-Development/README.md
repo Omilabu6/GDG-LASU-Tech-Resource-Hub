@@ -1,165 +1,61 @@
-<!-- # Frontend Development
+# Frontend Development
 
-Welcome to the Frontend Development learning path.
+Frontend development is about building what users see and interact with on websites and web apps.
 
-Frontend development focuses on building the user interface of websites and web applications — everything users see and interact with in a browser.
-
-This track will guide you from the fundamentals of web development to building responsive, interactive web applications using modern tools and frameworks.
+This track is a **resource hub**: it gives you a clear path + the best resources for **Beginner → Intermediate** (and beyond), without overwhelming you.
 
 ---
 
-## 🎯 What You Will Learn
+## ✅ Who this track is for
 
-By following this track, you will learn how to:
-
-- Structure web pages using HTML
-- Style and design interfaces using CSS
-- Build responsive layouts for different devices
-- Add interactivity using JavaScript
-- Work with browser APIs and the DOM
-- Consume APIs and display data on websites
-- Build modern frontend applications
-- Use Git and GitHub for version control
-- Deploy your projects to the web
+- **Beginners**: you’re new and want a clear path.
+- **Intermediate learners**: you know HTML/CSS/JS but want to build real projects and understand things deeper.
 
 ---
 
-## 🧭 How To Use This Track
+## 🧭 How to use this track (important)
 
-1. Start with the **Fundamentals** section.
-2. Learn how the web works and how HTML structures pages.
-3. Move into **Core Concepts** to understand styling and JavaScript logic.
-4. Use the **Practice** section to reinforce concepts with exercises.
-5. Build projects in the **Projects** section.
-6. Move into **Intermediate** topics such as frameworks and performance.
-7. Explore **Advanced** concepts once comfortable with the ecosystem.
+Use the folders in this order:
 
-Take your time to practice and build. Real learning happens through projects.
-
----
-
-## 🟢 Level Breakdown
-
-### Beginner
-
-Focus on understanding the core technologies of the web.
-
-Topics include:
-
-- How the web works
-- HTML structure and semantics
-- CSS styling fundamentals
-- Responsive design basics
-- JavaScript fundamentals
-- DOM manipulation
-
-Outcome:  
-Ability to build static and interactive websites.
+1. **01-Fundamentals** → learn HTML, CSS, basic JS
+2. **02-Core-Concepts** → DOM, ES6+, APIs, async, tooling basics
+3. **03-Practice** → practice platforms + challenge list
+4. **04-Projects** → guided projects (portfolio-ready)
+5. **05-Intermediate** → React + real-world patterns
+6. **06-Advanced** → performance, accessibility, testing
+7. **Extra-Resources** → optional deep dives
 
 ---
 
-### Intermediate
+## 🧱 Tech you’ll use
 
-Focus on building structured and scalable frontend applications.
-
-Topics include:
-
-- Modern JavaScript (ES6+)
-- API integration
-- State management basics
-- Frontend frameworks (React)
-- Component-based architecture
-- Performance optimization
-- Debugging techniques
-
-Outcome:  
-Ability to build modern web applications.
-
----
-
-### Advanced
-
-Focus on deeper architectural understanding.
-
-Topics include:
-
-- Advanced React patterns
-- Application performance optimization
-- Accessibility best practices
-- Frontend architecture
-- Testing strategies
-- Deployment pipelines
-
-Outcome:  
-Ability to build production-ready frontend applications.
-
----
-
-## 📂 Folder Structure
-
-This track follows the structure below:
-
-Frontend-Development/
-
-Fundamentals → Foundational knowledge of HTML, CSS, and JavaScript  
-Core-Concepts → Essential frontend principles and browser behavior  
-Practice → Exercises and coding challenges  
-Projects → Guided and independent projects  
-Intermediate → Modern frameworks and application architecture  
-Advanced → Performance, accessibility, and scalability  
-Extra-Resources → Optional extended learning materials
-
----
-
-## 🛠 Technologies Covered
-
-This track primarily focuses on the following technologies:
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
-- React
-- Browser Developer Tools
-
-These technologies form the foundation of modern frontend development.
+- Browser DevTools
+- (Intermediate) React
 
 ---
 
-## 💡 Learning Philosophy
+## 🎯 What “done” looks like
 
-This track emphasizes:
+By the time you finish Fundamentals + Core Concepts, you should be able to:
 
-- Building real projects
-- Understanding concepts deeply
-- Writing clean and maintainable code
-- Learning how to debug effectively
-- Developing problem-solving skills
-
-Watching tutorials alone is not enough — you must build.
+- Build a responsive website
+- Add interactivity with JavaScript
+- Work with APIs (fetch + async/await)
+- Deploy projects (GitHub Pages / Netlify)
+- Read documentation confidently
 
 ---
 
-## 📈 Expected Outcome
+## 🤝 Contributing
 
-By the end of this track, learners should be able to:
+Want to add resources or improve structure? Please follow `CONTRIBUTING.md`.
 
-- Build responsive websites
-- Create interactive user interfaces
-- Work with APIs
-- Use modern frontend tools
-- Deploy applications to the web
-- Continue learning independently
-
----
-
-## 🤝 Contributing to This Track
-
-If you would like to improve this track, you can contribute by:
-
-- Adding high-quality learning resources
-- Improving project ideas
-- Updating outdated materials
-- Enhancing documentation
-
-Please follow the repository-wide CONTRIBUTING.md guidelines. -->
+Keep additions:
+- **high quality**
+- **beginner-friendly**
+- **not duplicated**
+- **with short descriptions**
