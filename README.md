@@ -1,7 +1,5 @@
 # GDG-LASU-Tech-Resource-Hub
-![GDG](https://img.shields.io/badge/GDG-LASU-blue)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)
-![Learning Hub](https://img.shields.io/badge/Learning-Hub-orange)
+
 
 Welcome to the official GDG Tech Learning Hub.
 
